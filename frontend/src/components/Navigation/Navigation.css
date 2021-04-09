@@ -1,0 +1,26 @@
+.navbar {
+    max-height: 56px;
+    height: 56px;
+    background: #212224;
+    display: flex;
+    justify-content: space-between;
+    color: #066839;
+}
+
+.nav-brand {
+    padding-left: 25px;
+}
+
+.nav-brand h3{
+    margin-top: 15px;
+}
+
+.nav-links {
+    width: 14%;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0;
+    padding-right: 25px;
+}
